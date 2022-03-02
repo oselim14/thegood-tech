@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(249, 246, 214);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 10vmin;
+    
+}
+
+body{
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+    list-style:circle;
+}
